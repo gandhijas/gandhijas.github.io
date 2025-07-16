@@ -8,3 +8,4 @@ author_profile: false
 
 Complex numbers are numbers with a *real component* and an *imaginary component*, in the form a+bi, where a and b are **real numbers** and i is the **imaginary unit**.
 
+an extended explanation can be found at https://www.youtube.com/watch?v=Yddjxj49C_M
