@@ -10,5 +10,7 @@ Complex numbers are numbers with a *real component* and an *imaginary component*
 
 Here is more about [them](https://en.wikipedia.org/wiki/Complex_number)
 
+Here's an image of complex numbers on the plane: ![complex_plane](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMuLD6AYlU5ipu_URDHM17dRICfzs_kSh29Q&s)
+
 an extended explanation can be found at: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yddjxj49C_M?si=SdoZwZhBSOI49M8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
