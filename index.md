@@ -13,8 +13,8 @@ title: Home
 
 <div class="hero">
   <div class="content">
-    <h1> Exploring Quantum ML</h1>
-    <p class="tagline">A variational quantum classifier</p>
+    <h1> The world of Quantum ML</h1>
+    <p class="tagline">Unlocking Hidden Dimensions of Machine Learning with Quantum Power</p>
     <a class="btn" href="/background/">Start with the Background →</a>
   </div>
 </div>
