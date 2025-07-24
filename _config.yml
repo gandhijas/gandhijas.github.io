@@ -15,12 +15,22 @@
 # in the templates via {{ site.myvariable }}.
 
 
-theme: minima   # or your current theme
-title: MathQuantum Mini-Project
-description: Exploring the Vast Capabilities of Quantum Machine Learning 
+remote_theme: mmistakes/minimal-mistakes
+title: "Quantum ML Project"
+description: "Exploring Quantum Machine Learning"
+minimal_mistakes_skin: "default" # or "dark", "air", "mint"
 
-# This makes “tabs” in themes like minima
-header_pages:
-  - background.md
-  - tools-techniques.md
-  - goals.md
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# Navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "Background"
+    url: /background/
+  - title: "Tools/Techniques"
+    url: /tools/
+  - title: "Goals"
+    url: /goals/
