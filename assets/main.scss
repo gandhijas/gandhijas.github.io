@@ -1,1 +1,54 @@
+---
+---
 
+@import "minima"; /* keep if you're using minima; remove if not */
+
+.hero {
+  position: relative;
+  min-height: 100vh; /* full screen */
+  background: url('https://cdn.prod.website-files.com/639a397b9711984d91a35d74/646bbda5c8c88c7c71104f4a_Quantum-Machine-Learning-Robot.jpg') center/cover no-repeat fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+}
+
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.45); /* dark overlay */
+}
+
+.hero .content {
+  position: relative;
+  max-width: 900px;
+  padding: 2rem;
+}
+
+.hero h1 {
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  margin-bottom: 1rem;
+}
+
+.hero p.tagline {
+  font-size: clamp(1.1rem, 2.2vw, 1.5rem);
+  margin-bottom: 2rem;
+}
+
+.hero .btn {
+  display: inline-block;
+  padding: 0.9rem 1.6rem;
+  border: 2px solid #fff;
+  border-radius: 9999px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.hero .btn:hover {
+  background: #fff;
+  color: #111;
+}
