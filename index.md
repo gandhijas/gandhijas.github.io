@@ -7,14 +7,20 @@ author_profile: false
 ---
 
 ---
-layout: default
-title: Home
+layout: splash
+title: "Quantum ML Project"
 ---
 
-<div class="hero">
-  <div class="content">
-    <h1> The world of Quantum ML</h1>
-    <p class="tagline">Unlocking Hidden Dimensions of Machine Learning with Quantum Power</p>
-    <a class="btn" href="/background/">Start with the Background →</a>
-  </div>
-</div>
+---
+permalink: /
+header:
+  overlay_image: [/assets/images/hero.jpg](https://cdn.prod.website-files.com/639a397b9711984d91a35d74/646bbda5c8c88c7c71104f4a_Quantum-Machine-Learning-Robot.jpg)
+  overlay_filter: 0.5
+  caption: "Exploring the Future of Quantum Machine Learning"
+  actions:
+    - label: "Read the Background"
+      url: "/background/"
+---
+
+## Project Idea
+Quantum Machine Learning (QML) blends quantum computing principles with artificial intelligence to explore new ways of learning and processing data. This project examines how q
