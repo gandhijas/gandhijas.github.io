@@ -1,7 +1,7 @@
 # Quantum-Enhanced Machine Learning: Exploring Quantum Classifiers
 
 ## Project Idea
-This project explores how quantum computing concepts like qubits, quantum gates, and entanglement can be applied to machine learning tasks, focusing on building a conceptual framework for a simple quantum classifier.
+My project explores how quantum computing concepts like qubits, quantum gates, and entanglement can be applied to machine learning tasks, focusing on building a conceptual framework for a simple quantum classifier.
 
 ---
 
